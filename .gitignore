@@ -2,3 +2,4 @@ generator-mylib/node_modules/
 .vscode
 *.pyc
 .DS_Sore
+.DS_Store

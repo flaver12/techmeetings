@@ -8,3 +8,6 @@ class Person:
 
     def printItNice(self):
         print('<<< Firstname: '+self.first_name+' Lastname: '+ self.last_name+ ' >>>>')
+
+    def printItNice2(self):
+        print('<<<2 Firstname: '+self.first_name+' Lastname: '+ self.last_name+ ' 2>>>>')

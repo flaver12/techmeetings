@@ -5,3 +5,6 @@ class Person:
 
     def getFullName(self):
         print(self.first_name + ' ' + self.last_name)
+
+    def printItNice(self):
+        print('<<< Firstname: '+self.first_name+' Lastname: '+ self.last_name+ ' >>>>')
